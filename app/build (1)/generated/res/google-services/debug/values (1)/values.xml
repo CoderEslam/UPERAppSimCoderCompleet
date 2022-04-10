@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">601572061447-6ndjdt5oh8s9m8mum33m18o9hbhb2fih.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">601572061447</string>
+    <string name="google_api_key" translatable="false">AIzaSyArgpikKOmP_N26phMeMWqPiEI0xygjiI0</string>
+    <string name="google_app_id" translatable="false">1:601572061447:android:dd66fe7ca90bd1625715a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArgpikKOmP_N26phMeMWqPiEI0xygjiI0</string>
+    <string name="google_storage_bucket" translatable="false">upersimcomplet.appspot.com</string>
+    <string name="project_id" translatable="false">upersimcomplet</string>
+</resources>

@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\user_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_rigisterlayout.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\rigisterlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_default_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_costumer_map.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_costumer_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_user.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-anydpi-v26\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_user_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main2_drawer.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_user_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\user_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_maps.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_customer_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_map.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_driver_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_icon.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\user_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_user_icon.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\user_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\user_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_user_round.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-anydpi-v26\\user_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_default_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\user_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_settings.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_driver_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_pickup.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_signinlayout.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\signinlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_settings.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_customer_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\ic_car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\ic_car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_setting.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_driver_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_default_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_customer.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_setting_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_user_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_user_icon.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history_single.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_history_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_login.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_driver_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_login.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_customer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_maps.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_driver_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_user_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_car.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-anydpi-v26\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user_background.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\user_background.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_default_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-hdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\menu_main2.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_user_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-xxxhdpi\\user_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_default_user.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\UPERAppSimCoder\\app\\src\\main\\res\\mipmap-mdpi\\ic_default_user.png"
+    }
+]

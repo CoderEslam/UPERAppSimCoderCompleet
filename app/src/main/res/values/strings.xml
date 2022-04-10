@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UPERAppSimCoder</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_customer_maps">Map</string>
+<!--    <string name="mykey">AIzaSyAuajMPG9RdjOCvPaWcH_PpNkhjDxarGfg</string>-->
+    <string name="mykey">AIzaSyArgpikKOmP_N26phMeMWqPiEI0xygjiI0</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

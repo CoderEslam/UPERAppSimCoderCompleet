@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601572061447",
+    "project_id": "upersimcomplet",
+    "storage_bucket": "upersimcomplet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601572061447:android:dd66fe7ca90bd1625715a2",
+        "android_client_info": {
+          "package_name": "com.doubleclick.uperappsimcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601572061447-6ndjdt5oh8s9m8mum33m18o9hbhb2fih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgpikKOmP_N26phMeMWqPiEI0xygjiI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601572061447-6ndjdt5oh8s9m8mum33m18o9hbhb2fih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

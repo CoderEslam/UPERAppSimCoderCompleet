@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A8:7E:40:91:0F:3B:71:67:C1:BA:E6:ED:89:F4:C7:8B:9E:EB:A1:56%3Bcom.doubleclick.uperappsimcoder.Driver
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.doubleclick.uperappsimcoder.Driver
+
+    SHA-1 certificate fingerprint:
+    A8:7E:40:91:0F:3B:71:67:C1:BA:E6:ED:89:F4:C7:8B:9E:EB:A1:56
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">@string/mykey</string>
+</resources>
